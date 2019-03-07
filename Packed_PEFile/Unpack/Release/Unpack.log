@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\levan\source\repos\packed_pefile\unpack\source.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\levan\source\repos\packed_pefile\unpack\source.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\levan\source\repos\packed_pefile\unpack\source.cpp(128): warning C4101: 'temp': unreferenced local variable
+  Generating code
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Unpack.vcxproj -> C:\Users\levan\Source\Repos\Packed_PEFile\Release\Unpack.exe

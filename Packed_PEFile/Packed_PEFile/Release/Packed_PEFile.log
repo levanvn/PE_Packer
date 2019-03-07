@@ -1,0 +1,11 @@
+﻿  Parse_PE_File.cpp
+c:\users\levan\source\repos\packed_pefile\packed_pefile\parse_pe_file.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\levan\source\repos\packed_pefile\packed_pefile\parse_pe_file.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\levan\source\repos\packed_pefile\packed_pefile\parse_pe_file.cpp(184): warning C4305: 'initializing': truncation from 'unsigned int' to 'char'
+c:\users\levan\source\repos\packed_pefile\packed_pefile\parse_pe_file.cpp(184): warning C4309: 'initializing': truncation of constant value
+  Generating code
+  1 of 192 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Packed_PEFile.vcxproj -> C:\Users\levan\Source\Repos\Packed_PEFile\Release\Packed_PEFile.exe
