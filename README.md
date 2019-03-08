@@ -1,6 +1,7 @@
 # Writing a simple PE Packer in detail 
 
 Packers là một trong những kỹ thuật anti-RE rất phổ biến được sử dụng. Packer có nhiều lợi ích như làm rối mã nguồn tạo ra độ khó và kỹ năng cho người phân tích, giảm thiểu kích thước file thực thi lưu trữ trên bộ nhớ và có thể ẩn mình trước những phần mềm antivirus. Bài viết sẽ trình bày về nguyên lý mà các chương trình packer vẫn thường sử dụng và đi sâu vào những chi tiết kỹ thuật để hoàn thành được một chương trình Packer đầy đủ.
+
 Ý tưởng ban đầu của việc Packer là nén/ mã hóa đoạn code hoặc toàn bộ phân đoạn trong PE file, sau đó một đoạn mã giải nén thực thi trong thời gian chạy sẽ giải mã và thực thi mã nguyên thủy. 
  
  ![0](https://user-images.githubusercontent.com/39437600/54019608-2f9e3580-41be-11e9-95b2-05ca846c1fd5.png)
